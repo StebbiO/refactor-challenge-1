@@ -14,6 +14,8 @@ Given the starter HTML and CSS code for a webpage, the goal of this assignment w
 
 *Ensured the heading attributes flow in sequential order
 
-*Replaced <div> elements with more descriptive semantic elements
+*Replaced div elements with more descriptive semantic elements
 
 A screenshot of the webpage can be found at the following link: ![Screenshot](./Develop/assets/images/screenshot.png)
+
+Click here to be directed to the live webpage: ![webpage link](https://stebbio.github.io/refactor-challenge-1/)
